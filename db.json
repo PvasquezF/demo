@@ -1,8 +1,10 @@
 {
    "sitio": [
-    { "id": 1, "country": "Guatemala", "place": "volcan de fuego" },
-    { "id": 2, "country": "USA", "place": "Gran Cañon" },
-    { "id": 3, "country": "Japan", "place": "Monte Fuji" }
+    { "id": 1, "country": "Guatemala", "place": "volcan de fuego", "entrada":"gratis", "puntuacion":"4" },
+    { "id": 2, "country": "Usa", "place": "Gran Cañon", "entrada":"gratis", "puntuacion":"5" },
+    { "id": 3, "country": "Japan", "place": "Monte Fuji", "entrada":"gratis", "puntuacion":"5" },
+    { "id": 4, "country": "Guatemala", "place": "volcan de agua", "entrada":"gratis", "puntuacion":"3" },
+    { "id": 5, "country": "Guatemala", "place": "Lago de atitlan", "entrada":"gratis", "puntuacion":"2" },
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
