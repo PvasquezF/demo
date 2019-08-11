@@ -1,16 +1,14 @@
 {
    "sitio": [
-    { "id": 1, "country": "Guatemala", "place": "volcan de fuego", "entrada":"gratis", "puntuacion":4 },
-    { "id": 2, "country": "Usa", "place": "Gran Cañon", "entrada":"gratis", "puntuacion":5 },
-    { "id": 3, "country": "Japan", "place": "Monte Fuji", "entrada":"gratis", "puntuacion":5 },
-    { "id": 4, "country": "Guatemala", "place": "volcan de agua", "entrada":"gratis", "puntuacion":3 },
-    { "id": 5, "country": "Guatemala", "place": "Lago de atitlan", "entrada":"gratis", "puntuacion":2 }
+    { "id": 1, "country": 1, "place": "volcan de fuego", "entrada":"gratis", "puntuacion":4 },
+    { "id": 2, "country": 2, "place": "Gran Cañon", "entrada":"gratis", "puntuacion":5 },
+    { "id": 3, "country": 3, "place": "Monte Fuji", "entrada":"gratis", "puntuacion":5 },
+    { "id": 4, "country": 1, "place": "volcan de agua", "entrada":"gratis", "puntuacion":3 },
+    { "id": 5, "country": 1, "place": "Lago de atitlan", "entrada":"gratis", "puntuacion":2 }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "pais": [
+    { "id": 1, "nombre": "Guatemala"},
+    { "id": 2, "nombre": "Usa"},
+    { "id": 3, "nombre": "Japan" }
+  ]
 }
