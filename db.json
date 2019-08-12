@@ -1,15 +1,27 @@
 {
    "sitio": [
-    { "id": 1, "country": 1, "place": "volcan de fuego", "entrada":"gratis", "puntuacion":4 },
-    { "id": 2, "country": 2, "place": "Gran Cañon", "entrada":"gratis", "puntuacion":5 },
-    { "id": 3, "country": 3, "place": "Monte Fuji", "entrada":"gratis", "puntuacion":5 },
-    { "id": 4, "country": 1, "place": "volcan de agua", "entrada":"gratis", "puntuacion":3 },
-    { "id": 5, "country": 1, "place": "Lago de atitlan", "entrada":"gratis", "puntuacion":2 }
+    { "id": 1, "country": 1, "place": "volcan de fuego", "entrada":"gratis","categoria":"volcan", "puntuacion":4 },
+    { "id": 2, "country": 2, "place": "Gran Cañon", "entrada":"gratis","categoria":"volcan", "puntuacion":5 },
+    { "id": 3, "country": 3, "place": "Monte Fuji", "entrada":"gratis","categoria":"monte", "puntuacion":5 },
+    { "id": 4, "country": 1, "place": "volcan de agua", "entrada":"gratis","categoria":"volcan", "puntuacion":3 },
+    { "id": 5, "country": 1, "place": "Lago de atitlan", "entrada":"gratis","categoria":"lago", "puntuacion":2 },
+    { "id": 6, "country": 4, "place": "Jardín Botánico de Ambato", "entrada":"gratis","categoria":"jardin", "puntuacion":2 },
+    { "id": 7, "country": 5, "place": "Jardín Botánico de Curitiba", "entrada":"gratis","categoria":"jardin", "puntuacion":3 },
+    { "id": 8, "country": 2, "place": "Jardín Botánico de Dallas", "entrada":"gratis","categoria":"jardin", "puntuacion":1 },
+    { "id": 9, "country": 6, "place": "Jardín Botánico Nymphenburg de Múnich", "entrada":"gratis","categoria":"jardin", "puntuacion":5 },
+    { "id": 10, "country": 2, "place": "Casol Gallery", "entrada":"gratis","categoria":"galeria", "puntuacion":4 },
+    { "id": 11, "country": 7, "place": "Tate Gallery", "entrada":"gratis","categoria":"galeria", "puntuacion":4 },
+    { "id": 12, "country": 8, "place": "Monumento de los Mártires en Argel", "entrada":"gratis","categoria":"monumento", "puntuacion":4 }
   ],
   "pais": [
     { "id": 1, "nombre": "Guatemala"},
     { "id": 2, "nombre": "Usa"},
-    { "id": 3, "nombre": "Japan" }
+    { "id": 3, "nombre": "Japan" },
+    { "id": 4, "nombre": "Ecuador" },
+    { "id": 5, "nombre": "Brasil" },
+    { "id": 6, "nombre": "Alemania" },
+    { "id": 7, "nombre": "Inglaterra" },
+    { "id": 8, "nombre": "Argelia" }
   ],
    "favoritos": [
     { "id": 1},
