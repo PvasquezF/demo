@@ -10,5 +10,12 @@
     { "id": 1, "nombre": "Guatemala"},
     { "id": 2, "nombre": "Usa"},
     { "id": 3, "nombre": "Japan" }
-  ]
+  ],
+   "favoritos": [
+    { "id": 1},
+    { "id": 2},
+    { "id": 3},
+    { "id": 4},
+    { "id": 5}
+  ],
 }
