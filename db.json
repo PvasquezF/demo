@@ -29,8 +29,9 @@
   ],
     "user": [
         { 
-            "id": 1, 
-            "correo": "alexanderpavelv32@gmail.com"
+            "usuario": "alexanderpavelv32@gmail.com,
+             "token": "uA3@DgA3Da",
+             "codResultado": 0
          }
     ]
 }
